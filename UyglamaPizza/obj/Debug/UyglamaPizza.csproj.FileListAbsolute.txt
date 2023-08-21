@@ -1,0 +1,43 @@
+C:\Users\kadir\Desktop\c#\UyglamaPizza\UyglamaPizza\bin\Debug\UyglamaPizza.exe.config
+C:\Users\kadir\Desktop\c#\UyglamaPizza\UyglamaPizza\obj\Debug\UyglamaPizza.csprojResolveAssemblyReference.cache
+C:\Users\kadir\Desktop\c#\UyglamaPizza\UyglamaPizza\obj\Debug\UyglamaPizza.Form1.resources
+C:\Users\kadir\Desktop\c#\UyglamaPizza\UyglamaPizza\obj\Debug\UyglamaPizza.Properties.Resources.resources
+C:\Users\kadir\Desktop\c#\UyglamaPizza\UyglamaPizza\obj\Debug\UyglamaPizza.csproj.GenerateResource.Cache
+C:\Users\kadir\Desktop\c#\UyglamaPizza\UyglamaPizza\bin\Debug\UyglamaPizza.exe
+C:\Users\kadir\Desktop\c#\UyglamaPizza\UyglamaPizza\bin\Debug\UyglamaPizza.pdb
+C:\Users\kadir\Desktop\c#\UyglamaPizza\UyglamaPizza\obj\Debug\UyglamaPizza.Form2.resources
+C:\Users\kadir\Desktop\c#\UyglamaPizza\UyglamaPizza\obj\Debug\UyglamaPizza.exe
+C:\Users\kadir\Desktop\c#\UyglamaPizza\UyglamaPizza\obj\Debug\UyglamaPizza.pdb
+C:\Users\kadir.DESKTOP-A99UNVV\Desktop\c#\UyglamaPizza\UyglamaPizza\bin\Debug\UyglamaPizza.exe.config
+C:\Users\kadir.DESKTOP-A99UNVV\Desktop\c#\UyglamaPizza\UyglamaPizza\obj\Debug\UyglamaPizza.exe
+C:\Users\kadir.DESKTOP-A99UNVV\Desktop\c#\UyglamaPizza\UyglamaPizza\obj\Debug\UyglamaPizza.pdb
+C:\Users\kadir.DESKTOP-A99UNVV\Desktop\c#\UyglamaPizza\UyglamaPizza\bin\Debug\UyglamaPizza.exe
+C:\Users\kadir.DESKTOP-A99UNVV\Desktop\c#\UyglamaPizza\UyglamaPizza\bin\Debug\UyglamaPizza.pdb
+C:\Users\kadir.DESKTOP-A99UNVV\Desktop\c#\UyglamaPizza\UyglamaPizza\obj\Debug\UyglamaPizza.csprojResolveAssemblyReference.cache
+C:\Users\kadir.DESKTOP-A99UNVV\Desktop\c#\UyglamaPizza\UyglamaPizza\obj\Debug\UyglamaPizza.Form1.resources
+C:\Users\kadir.DESKTOP-A99UNVV\Desktop\c#\UyglamaPizza\UyglamaPizza\obj\Debug\UyglamaPizza.Form2.resources
+C:\Users\kadir.DESKTOP-A99UNVV\Desktop\c#\UyglamaPizza\UyglamaPizza\obj\Debug\UyglamaPizza.Properties.Resources.resources
+C:\Users\kadir.DESKTOP-A99UNVV\Desktop\c#\UyglamaPizza\UyglamaPizza\obj\Debug\UyglamaPizza.csproj.GenerateResource.Cache
+C:\Users\kadir.DESKTOP-A99UNVV\Desktop\Yeni klasör\c#\UyglamaPizza\UyglamaPizza\bin\Debug\UyglamaPizza.exe.config
+C:\Users\kadir.DESKTOP-A99UNVV\Desktop\Yeni klasör\c#\UyglamaPizza\UyglamaPizza\bin\Debug\UyglamaPizza.exe
+C:\Users\kadir.DESKTOP-A99UNVV\Desktop\Yeni klasör\c#\UyglamaPizza\UyglamaPizza\bin\Debug\UyglamaPizza.pdb
+C:\Users\kadir.DESKTOP-A99UNVV\Desktop\Yeni klasör\c#\UyglamaPizza\UyglamaPizza\obj\Debug\UyglamaPizza.csprojAssemblyReference.cache
+C:\Users\kadir.DESKTOP-A99UNVV\Desktop\Yeni klasör\c#\UyglamaPizza\UyglamaPizza\obj\Debug\UyglamaPizza.Form1.resources
+C:\Users\kadir.DESKTOP-A99UNVV\Desktop\Yeni klasör\c#\UyglamaPizza\UyglamaPizza\obj\Debug\UyglamaPizza.Form2.resources
+C:\Users\kadir.DESKTOP-A99UNVV\Desktop\Yeni klasör\c#\UyglamaPizza\UyglamaPizza\obj\Debug\UyglamaPizza.Properties.Resources.resources
+C:\Users\kadir.DESKTOP-A99UNVV\Desktop\Yeni klasör\c#\UyglamaPizza\UyglamaPizza\obj\Debug\UyglamaPizza.csproj.GenerateResource.cache
+C:\Users\kadir.DESKTOP-A99UNVV\Desktop\Yeni klasör\c#\UyglamaPizza\UyglamaPizza\obj\Debug\UyglamaPizza.csproj.CoreCompileInputs.cache
+C:\Users\kadir.DESKTOP-A99UNVV\Desktop\Yeni klasör\c#\UyglamaPizza\UyglamaPizza\obj\Debug\UyglamaPizza.exe
+C:\Users\kadir.DESKTOP-A99UNVV\Desktop\Yeni klasör\c#\UyglamaPizza\UyglamaPizza\obj\Debug\UyglamaPizza.pdb
+C:\Users\kadir\Documents\Bilgisayar1\Kurs Dosyaları\Bütün Kurs\c#\UyglamaPizza\UyglamaPizza\bin\Debug\UyglamaPizza.exe.config
+C:\Users\kadir\Documents\Bilgisayar1\Kurs Dosyaları\Bütün Kurs\c#\UyglamaPizza\UyglamaPizza\bin\Debug\UyglamaPizza.exe
+C:\Users\kadir\Documents\Bilgisayar1\Kurs Dosyaları\Bütün Kurs\c#\UyglamaPizza\UyglamaPizza\bin\Debug\UyglamaPizza.pdb
+C:\Users\kadir\Documents\Bilgisayar1\Kurs Dosyaları\Bütün Kurs\c#\UyglamaPizza\UyglamaPizza\obj\Debug\UyglamaPizza.csproj.AssemblyReference.cache
+C:\Users\kadir\Documents\Bilgisayar1\Kurs Dosyaları\Bütün Kurs\c#\UyglamaPizza\UyglamaPizza\obj\Debug\UyglamaPizza.csproj.SuggestedBindingRedirects.cache
+C:\Users\kadir\Documents\Bilgisayar1\Kurs Dosyaları\Bütün Kurs\c#\UyglamaPizza\UyglamaPizza\obj\Debug\UyglamaPizza.Form1.resources
+C:\Users\kadir\Documents\Bilgisayar1\Kurs Dosyaları\Bütün Kurs\c#\UyglamaPizza\UyglamaPizza\obj\Debug\UyglamaPizza.Form2.resources
+C:\Users\kadir\Documents\Bilgisayar1\Kurs Dosyaları\Bütün Kurs\c#\UyglamaPizza\UyglamaPizza\obj\Debug\UyglamaPizza.Properties.Resources.resources
+C:\Users\kadir\Documents\Bilgisayar1\Kurs Dosyaları\Bütün Kurs\c#\UyglamaPizza\UyglamaPizza\obj\Debug\UyglamaPizza.csproj.GenerateResource.cache
+C:\Users\kadir\Documents\Bilgisayar1\Kurs Dosyaları\Bütün Kurs\c#\UyglamaPizza\UyglamaPizza\obj\Debug\UyglamaPizza.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Documents\Bilgisayar1\Kurs Dosyaları\Bütün Kurs\c#\UyglamaPizza\UyglamaPizza\obj\Debug\UyglamaPizza.exe
+C:\Users\kadir\Documents\Bilgisayar1\Kurs Dosyaları\Bütün Kurs\c#\UyglamaPizza\UyglamaPizza\obj\Debug\UyglamaPizza.pdb
